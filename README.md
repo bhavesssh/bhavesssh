@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am Bhavesh Mahalle from Nagpur. I have recently completed my BCA from GH Raisoni College. I am<br>proficient in programming languages such as C, C++, Java, and Python (intermediate level in Python and <br>SQL).<br><br>I have experience with data analysis and visualization using Pandas, NumPy, Matplotlib, and Seaborn to<br>extract business intelligence from complex datasets. I am also skilled in Machine Learning and Deep<br>Learning, including data cleaning and preprocessing to make data ready for analysis.<br><br>I am passionate about employing data-driven methodologies to address practical challenges and contribute<br>to meaningful AI and analytics products. I am actively looking to network with professional recruiters and<br>organizations interested in Data Science, AI, and Machine Learning.
+I’m a BCA graduate and an aspiring Software Engineer, currently focused on strengthening my programming fundamentals and problem-solving skills.
+I enjoy understanding how things work, breaking down complex problems into smaller logical steps, and turning those ideas into practical solutions through code.
+Currently, I’m learning and building with Python, SQL, Git/GitHub, Data Structures & Algorithms, while exploring different areas of technology and software development.
+My approach to learning is simple:
+Understand the problem → Build the logic → Write the code → Test → Improve
+I’m actively looking for opportunities where I can learn, contribute, work on real-world problems, and grow as a Software Engineer.
+Always learning. Always building. 🚀
 
 
 ## 🌐 Socials:
